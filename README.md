@@ -9,7 +9,7 @@ A curated collection of machine learning experiments built on diverse datasets, 
 This repository showcases the implementation of various machine learning algorithms applied across different types of datasets. Each project explores data-driven approaches to build, train, and evaluate models with an emphasis on performance and experimentation.
 
 ---
-
+  
 ## ⚙️ Key Highlights
 
 * Application of multiple machine learning algorithms
